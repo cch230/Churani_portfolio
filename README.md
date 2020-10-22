@@ -22,8 +22,8 @@ I cover C, JAVA, Python, Kotlin, JavaScript, and SQL.
 자세한 내용은 포트폴리오를 참조하십시오.  
 See portfolio for more details.  
 ### [Portfolio](https://cch230.github.io/Churani_portfolio/)
-
-
+  
+  
 ### 그림을 클릭하면 사이트로 이동합니다. Click on the picture to go to the sites.
 [![Image Label](https://github.com/cch230/Churani_portfolio/blob/master/images/notion.png)](https://www.notion.so/puffinable/b92735dec5584b2d91ed8ac6c4737648)    [![Image Label]( https://github.com/cch230/Churani_portfolio/blob/master/images/git.png)](https://github.com/cch230)    [![Image Label](https://github.com/cch230/Churani_portfolio/blob/master/images/insta.png)](https://www.instagram.com/puffinable.official/)    [![Image Label](https://github.com/cch230/Churani_portfolio/blob/master/images/mail.png)](mailto:cch01024857239@gmail.com)
 
