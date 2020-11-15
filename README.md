@@ -20,6 +20,7 @@ I am currently working on many challenges to become a venture entrepreneur.
 C, JAVA, Python, Kotlin, JavaScript, SQL를 다룹니다.  
 I cover C, JAVA, Python, Kotlin, JavaScript, and SQL.  
   
+  
 **자세한 내용은 포트폴리오를 참조하면 감사하겠습니다.**  
 **Please refer to the portfolio for details.**  
 ### [Portfolio](https://cch230.github.io/Churani_portfolio/)
