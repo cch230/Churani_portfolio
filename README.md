@@ -1,7 +1,7 @@
 # Churani's portfolio  
 # 철환의 포트폴리오
 
-### 예비 창업가 & 프론트앤드 개발자
+### 예비 창업가 & 주니어 풀스택 개발자
 ### Preliminary Entrepreneurs & Front Developers
 안녕하세요, 저는 최철환입니다. 만나서 반갑습니다.  
 Hello, my name is Cheolhwan Choi. Nice to meet you.  
