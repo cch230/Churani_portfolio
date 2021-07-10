@@ -17,8 +17,8 @@ For me, the world is full of what I want to do.
 I hate to regret, so my values of trying and challenging led me to the dream of a Venture Entrepreneur.  
 지금은 벤처기업가가 되기 위한 많은 도전을 진행 중 입니다.  
 I am currently working on many challenges to become a venture entrepreneur.  
-C, JAVA, Python, Kotlin, JavaScript, SQL를 다룹니다.  
-I cover C, JAVA, Python, Kotlin, JavaScript, and SQL.  
+C, JAVA, Python, Kotlin, JavaScript, SQL 등을 다룹니다.  
+I cover C, JAVA, Python, Kotlin, JavaScript, and SQL. ETC..  
   
   
 **자세한 내용은 포트폴리오를 참조하면 감사하겠습니다.**  
