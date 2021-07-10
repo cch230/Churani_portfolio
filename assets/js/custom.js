@@ -126,7 +126,7 @@ var ctx = document.getElementById('radar-chart').getContext('2d');
 var myChart = new Chart(ctx, {
     type: 'radar',
     data: {
-        labels: ['근면성실', '친화력', '감정기복', '패션감각','도전'],
+        labels: ['근면성실', '친화력', '후회', '패션감각','도전'],
         datasets: [{
             data: [90, 80, 0, 70,90],
             backgroundColor: ['#orange', '#00e676', '#ff5722', '#1e88e5'],
