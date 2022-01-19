@@ -29,6 +29,6 @@ I cover C, JAVA, Python, Kotlin, JavaScript, and SQL. ETC..
 ### 그림을 클릭하면 사이트로 이동합니다.  
 ### Click on the picture to go to the sites.  
 
-[![Image Label](https://github.com/cch230/Churani_portfolio/blob/master/assets/img/notion.png)](https://www.notion.so/puffinable/b92735dec5584b2d91ed8ac6c4737648)    [![Image Label]( https://github.com/cch230/Churani_portfolio/blob/master/assets/img/git.png)](https://github.com/cch230)    [![Image Label](https://github.com/cch230/Churani_portfolio/blob/master/assets/img/insta.png)](https://www.instagram.com/puffinable.official/)    [![Image Label](https://github.com/cch230/Churani_portfolio/blob/master/assets/img/mail.png)](mailto:cch01024857239@gmail.com)
+[![Image Label](https://github.com/cch230/Churani_portfolio/blob/master/assets/img/notion.png)](https://www.notion.so/silhouette-/b92735dec5584b2d91ed8ac6c4737648)    [![Image Label]( https://github.com/cch230/Churani_portfolio/blob/master/assets/img/git.png)](https://github.com/cch230)    [![Image Label](https://github.com/cch230/Churani_portfolio/blob/master/assets/img/insta.png)](https://www.instagram.com/puffinable.official/)    [![Image Label](https://github.com/cch230/Churani_portfolio/blob/master/assets/img/mail.png)](mailto:cch01024857239@gmail.com)
 
 ## Copyright © 최철환 All rights reserved
