@@ -67,7 +67,7 @@ var myChart = new Chart(ctx, {
     data: {
         labels: ['Java/Kotlin', 'DB/Server', 'Python', 'Js/Node.Js', 'Swift'],
         datasets: [{
-            data: [90, 80, 70, 70, 60],
+            data: [90, 80, 70, 70, 60,0],
             backgroundColor: ['#f38181', '#fce38a', '#eaffd0', '#95e1d3', '#0087CE'],
             borderWidth: 0.5 ,
             borderColor: '#fff'
