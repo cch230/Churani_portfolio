@@ -6,10 +6,10 @@ Chart.defaults.global.defaultFontSize =10;
 var myChart = new Chart(ctx, {
     type: 'pie',
     data: {
-        labels: ['Coding', 'Take pictures', 'Travel', 'Musical'],
+        labels: ['Coding', 'Take pictures', 'Travel', 'Musical','Movie'],
         datasets: [{
-            data: [65, 15, 10, 10],
-            backgroundColor: ['#f38181', '#fce38a', '#eaffd0', '#95e1d3', '#f4f4f4'],
+            data: [45, 20, 15, 10, 10],
+            backgroundColor: ['#f38181', '#fce38a', '#eaffd0', '#95e1d3', '#0087CE'],
             borderWidth: 0.5 ,
             borderColor: '#ddd'
         }]
