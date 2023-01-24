@@ -6,9 +6,9 @@ Chart.defaults.global.defaultFontSize =10;
 var myChart = new Chart(ctx, {
     type: 'pie',
     data: {
-        labels: ['Coding', 'Travel', 'Music', 'Movie'],
+        labels: ['Coding', 'Take pictures', 'Travel', 'Musical'],
         datasets: [{
-            data: [70, 15, 10, 5],
+            data: [65, 15, 10, 10],
             backgroundColor: ['#f38181', '#fce38a', '#eaffd0', '#95e1d3', '#f4f4f4'],
             borderWidth: 0.5 ,
             borderColor: '#ddd'
@@ -65,10 +65,10 @@ var ctx = document.getElementById('bar-chart').getContext('2d');
 var myChart = new Chart(ctx, {
     type: 'bar',
     data: {
-        labels: ['JAVA/KOTLIN', 'SQL/DB', 'JS/CSS', 'PYTHON'],
+        labels: ['Java/Kotlin', 'DB/Server', 'Python', 'Js/Node.Js', 'Swift'],
         datasets: [{
-            data: [90, 80, 70, 70,0],
-            backgroundColor: ['#f38181', '#fce38a', '#eaffd0', '#95e1d3'],
+            data: [90, 80, 70, 70, 60],
+            backgroundColor: ['#f38181', '#fce38a', '#eaffd0', '#95e1d3', '#0087CE'],
             borderWidth: 0.5 ,
             borderColor: '#fff'
         }]
