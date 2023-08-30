@@ -5,9 +5,9 @@
 ### Preliminary Entrepreneurs & Front Developers
 안녕하세요, 저는 최철환입니다. 만나서 반갑습니다.  
 Hello, my name is Cheolhwan Choi. Nice to meet you.  
-저는 무언가 도전하는 걸 좋아합니다. 어플제작, 웹 사이트 제작에 대한 열정에는 자신이 있습니다.  
+저는 무언가 도전하는 걸 좋아합니다. 서비스 제작에 대한 열정에는 자신이 있습니다.  
 I like to challenge anything. I am confident in my passion for developing applications and websites.  
-컴퓨터공학과 벤처창업전공을 복수전공하고, 팀원들과 함께 IT창업을 하며 노력하고 도전하고 있습니다.  
+컴퓨터공학과 벤처경영학을 복수전공하고, 팀원들과 함께 IT창업을 하며 노력하고 도전하고 있습니다.  
 I have a double major in Computer-engineering and Venture-management.  
 As a team leader of a startup club, we are striving and challenging for a startup.  
    
